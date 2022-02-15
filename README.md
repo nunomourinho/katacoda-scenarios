@@ -18,3 +18,9 @@ For examples, visit https://github.com/katacoda/scenario-example
   $ git commit -m "New scenario"
   $ git push origin master
 ```
+
+### Como instalar o cliente do katakoda
+
+```
+npm install katacoda-cli --global
+```
