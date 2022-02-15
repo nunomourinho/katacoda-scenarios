@@ -24,3 +24,10 @@ For examples, visit https://github.com/katacoda/scenario-example
 ```
 npm install katacoda-cli --global
 ```
+
+
+### Como gerir o katakoda
+
+```
+https://dashboard.katacoda.com/
+```
